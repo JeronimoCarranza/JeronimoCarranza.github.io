@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>5 on Jerónimo Carranza Carranza</title>
+    <link>https://JeronimoCarranza.github.io/publication_types/5/</link>
+    <description>Recent content in 5 on Jerónimo Carranza Carranza</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Jerónimo Carranza Carranza</copyright>
+    <lastBuildDate>Mon, 01 Jun 1998 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://JeronimoCarranza.github.io/publication_types/5/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ATLAS DE ANDALUCÍA. Vol. I: General Cartography (1:100.000). Serie Land Uses.</title>
+      <link>https://JeronimoCarranza.github.io/publication/1998-atlasandalucia_usossuelo/</link>
+      <pubDate>Mon, 01 Jun 1998 00:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/publication/1998-atlasandalucia_usossuelo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping and Statistics of Land Use and Land Cover in Andalusia. Monitoring 1976-1991.</title>
+      <link>https://JeronimoCarranza.github.io/publication/1997-cartografia_y_estadistica_usossuelo/</link>
+      <pubDate>Sun, 01 Jun 1997 00:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/publication/1997-cartografia_y_estadistica_usossuelo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

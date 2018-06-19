@@ -1,0 +1,210 @@
+/*************************************************
+ *  A custom theme for Hugo Academic
+ *  Set `custom_css = ["blue.css"] in `config.toml`.
+ *  Then save this file as `/static/css/blue.css` relative to your website root (i.e. not in `themes/academic` directory).
+ *  https://github.com/gcushen/hugo-academic
+ **************************************************/
+
+/* from green to blue to orange*/
+/*  change all rgb(76,175,80) --> to rgb(127,140,180) --> to rgb(255,150,70)*/
+/*  change all rgb(0,230,118) --> to rgb(52,60,86) --> to rgb(255,87,51) */
+/*  change all rgb() --> to rgb(132, 214, 211) --> to rgb(255,195,0)*/
+
+/*************************************************
+ *  Core
+ **************************************************/
+
+
+/* Headings */
+
+a,
+h3.article-title a:hover {
+  color: rgb(255,150,70); 
+}
+
+
+a:hover,
+a:focus {
+  color: rgb(255,87,51);
+}
+
+/*************************************************
+ *  Blog Articles
+ **************************************************/
+
+.article-metadata a:hover {
+  color: rgb(255,150,70);
+}
+
+/*************************************************
+ *  Button Primary: Color Override
+ **************************************************/
+
+.btn-primary {
+  border-color: rgb(255,150,70);
+  /*background: rgb(127,140,180);*/
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active,
+.open > .dropdown-toggle.btn-primary {
+  background: rgb(255,150,70);
+}
+
+
+/*************************************************
+ *  Button Outlines
+ **************************************************/
+
+
+.btn-primary.btn-outline {
+  color: rgb(255,150,70);
+  border-color: rgb(255,150,70);
+}
+
+/*************************************************
+ *  Navigation Bar
+ **************************************************/
+
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:focus,
+.navbar-default .navbar-nav>.active>a:hover {
+  color: rgb(255,150,70);
+  font-weight: 700;
+  background-color: transparent !important; /* Override Bootstrap. */
+}
+
+.dropdown-menu > .active > a,
+.dropdown-menu > .active > a:focus,
+.dropdown-menu > .active > a:hover {
+  color: #fff;
+  text-decoration: none;
+  background-color: rgb(255,150,70);
+  outline: 0;
+}
+
+@media screen and (max-width: 1200px) {
+
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus,
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover {
+    color: rgb(255,150,70);
+    background-color: transparent;
+  }
+
+}
+
+/*************************************************
+ *  Toolbar Buttons
+ **************************************************/
+ 
+
+.btn-toolbar .btn.btn-primary {
+  background: rgb(255,150,70);
+}
+
+.btn-toolbar .btn.btn-primary:hover,
+.btn-toolbar .btn.btn-primary:focus {
+  background-color: rgba(255,150,70,0.6);
+}
+
+.btn-toolbar .btn.btn-primary:active,
+.btn-toolbar .btn.btn-primary.active {
+  background-color: rgba(255,87,51,1);
+}
+
+/*************************************************
+ *  Publications
+ **************************************************/
+
+.pub-icon {
+  color: rgb(255,87,51);
+  font-size: 0.81em;
+  padding-top: 6px;
+}
+
+.pub-list-item .pub-publication {
+  color: rgb(255,150,70);
+  font-size: 1rem;
+}
+
+
+/*************************************************
+ *  Fonts (note: update link @ themes/hugo-academic/layouts/partials)
+ **************************************************/
+
+html {
+  font-family: 'Monserrat', sans-serif; /*Monserrat, sans-serif*/
+  font-weight: 310;                     /*300*/
+  font-size: 14px;                      /*16*/
+  color: rgba(0,0,0,0.8);
+  line-height: 1.65;
+}
+
+/*************************************************
+ *  Alerts
+ **************************************************/
+
+
+.alert-note {
+  color: #fff;
+  background-color: rgb(127,140,180); 
+  border-color: #bce8f1;
+}
+
+.alert-warning {
+  color: #fff;
+  background-color: rgb(238, 88, 99); 
+  border-color: #ebccd1;
+}
+  
+/*************************************************
+ *  Sharing
+ **************************************************/
+
+.share-box {
+  float: right;
+}
+
+ul.share {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+ul.share li {
+  display: inline-flex;
+  margin-right: 5px;
+}
+
+ul.share li:last-of-type {
+  margin-right: 0;
+}
+
+ul.share li .fa {
+  display: block;
+  width: 30px;
+  height: 30px;
+  line-height: 30px;
+  font-size: 16px;
+  text-align: center;
+  transition: all 150ms ease-in-out;
+  color: #fff;
+}
+
+ul.share li a {
+  background-color:  #ff9646;
+  display: block;
+  border-radius: 50%;
+  text-decoration: none !important;
+  margin: 0;
+}
+
+ul.share li:hover .fa {
+  transform: scale(1.4)
+}

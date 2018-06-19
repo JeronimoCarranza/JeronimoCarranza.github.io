@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Jerónimo Carranza Carranza</title>
+    <link>https://JeronimoCarranza.github.io/home/</link>
+    <description>Recent content in Homes on Jerónimo Carranza Carranza</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Jerónimo Carranza Carranza</copyright>
+    <lastBuildDate>Tue, 22 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://JeronimoCarranza.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://JeronimoCarranza.github.io/home/about/</link>
+      <pubDate>Tue, 22 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/home/about/</guid>
+      <description>About me I am a consultant, based in Seville (Spain), with more than 25 years experience working for private organizations and public administrations in the areas of Data Science, GIS and Environment.
+Since the end of 2016 I offer my professional services through my company, ASTERIONAT.
+Previously I worked for 15 years in an engineering company, TYPSA, as Head of the Department of Territorial Information, another 12 years as a partner and Technical Director in an environmental consulting, Biocora Consultores.</description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://JeronimoCarranza.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://JeronimoCarranza.github.io/home/works/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/home/works/</guid>
+      <description>Year Title Recipients Position     MOST RELEVANT RECENT PROJECTS      2018 Smart Bike - Sevilla: Spatio-Temporal Patterns and Predictive Models of the use of Sevici&amp;rsquo;s bicycles. University of Seville. Author.   2015 SaneaCLM: Information System of Sanitation of Urban Wastewater Treatment in Castilla–La Mancha. Water Agency of Castilla – La Mancha. Head of project.   2014 Development and Implementation of a Geographical Information System of the Ewaso Ng&amp;rsquo;Iro South River Basin.</description>
+    </item>
+    
+    <item>
+      <title>Talks &amp; Workshops</title>
+      <link>https://JeronimoCarranza.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://JeronimoCarranza.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/home/teaching/</guid>
+      <description>I have taught the following courses:
+ &amp;ldquo;Introduction to gvSIG&amp;rdquo; (8h). TYPSA. Seville, 2009.
+ &amp;ldquo;Integrated Analysis of Spatial Data and Attributes&amp;rdquo; (4h). Course: GIS as a Tool of Management in Agricultural Sector. EOI – ASAJA. Seville, 2003 and 2004.
+ &amp;ldquo;Spectral features of the earth surface&amp;rdquo; (4h). Course: GIS as a Management Tool in Agricultural Sector. EOI – ASAJA. Seville, 2003.
+ &amp;ldquo;Vegetation conditioning and correction of landscape and ecological impacts in highways and roads&amp;rdquo; (4h).</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Webgis on Jerónimo Carranza Carranza</title>
+    <link>https://JeronimoCarranza.github.io/tags/webgis/</link>
+    <description>Recent content in Webgis on Jerónimo Carranza Carranza</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Jerónimo Carranza Carranza</copyright>
+    <lastBuildDate>Thu, 10 Sep 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://JeronimoCarranza.github.io/tags/webgis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SaneaCLM: Information System of Sanitation of Urban Wastewater Treatment in Castilla–La Mancha.</title>
+      <link>https://JeronimoCarranza.github.io/project/2015-saneaclm/</link>
+      <pubDate>Thu, 10 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/project/2015-saneaclm/</guid>
+      <description>Position: Head of project.
+Recipients: Water Agency of Castilla – La Mancha. 2015.
+In the framework of the project &amp;ldquo;Control and Diagnosis of Urban Wastewater Treatment Plants in Castilla-La Mancha, 2011-2015&amp;rdquo;, the design, development and implementation of a J2EE software application, called SaneaCLM, has been carried out for the information management of urban wastewater treatment plants (EDAR) and graphical, geographic and alphanumeric exploitation of their structural and analytical data. SaneaCLM is based on the following technologies:</description>
+    </item>
+    
+  </channel>
+</rss>
