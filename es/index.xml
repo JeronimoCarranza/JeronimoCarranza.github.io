@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jerónimo Carranza Carranza on Jerónimo Carranza Carranza</title>
+    <link>https://JeronimoCarranza.github.io/es/</link>
+    <description>Recent content in Jerónimo Carranza Carranza on Jerónimo Carranza Carranza</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <copyright>&amp;copy; 2018 Jerónimo Carranza Carranza</copyright>
+    <lastBuildDate>Tue, 22 May 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/es/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Patrones espacio-temporales y modelos predictivos del uso de las bicicletas de Sevici.</title>
+      <link>https://JeronimoCarranza.github.io/es/talk/2018-sevici_sevillar/</link>
+      <pubDate>Tue, 05 Jun 2018 19:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/es/talk/2018-sevici_sevillar/</guid>
+      <description>
+&lt;figure&gt;
+    
+        &lt;img src=&#34;https://JeronimoCarranza.github.io/img/SevillaR_20180605.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Patrones espacio-temporales del uso de las bicicletas de Sevici.</title>
+      <link>https://JeronimoCarranza.github.io/es/talk/2018-sevici_databeersvq4/</link>
+      <pubDate>Thu, 17 May 2018 20:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/es/talk/2018-sevici_databeersvq4/</guid>
+      <description>
+&lt;figure&gt;
+    
+        &lt;img src=&#34;https://JeronimoCarranza.github.io/img/DatabeerSVQ4_Sevici.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Smart Bike – Sevilla: Patrones espacio-temporales y modelos predictivos del uso de las bicicletas de Sevici.</title>
+      <link>https://JeronimoCarranza.github.io/es/project/2018-tfm-sevici/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/es/project/2018-tfm-sevici/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Posición&lt;/em&gt;: Autor.&lt;br /&gt;
+&lt;em&gt;Destinatarios&lt;/em&gt;: Universidad de Sevilla. 2018.&lt;/p&gt;
+
+&lt;p&gt;A partir de los datos abiertos publicados por la empresa de gestión de Sevici y compilados por las Universidades de Huelva y Sevilla durante un año, se identifican los patrones temporales, espaciales y espacio-temporales del uso de las bicicletas de Sevici. Los resultados confirman su uso efectivo como medio de transporte (alternativo) en las actividades diarias y también intuyen el rol funcional preferido en la estructura urbana de las diferentes áreas en las que se ubican las estaciones.
+También se han creado modelos predictivos del uso de bicicletas para horizontes temporales de corto plazo (15 minutos, 30 minutos, 1 hora, 4 horas, 8 horas y 24 horas). En total, se han estimado 1813 modelos, siete para cada una de las estaciones, todos, modelos de regresión con regularización Elasticnet. Los resultados de su testeo han demostrado una muy buena capacidad de predicción, con RMSE (error cuadrático medio) de 17.6 en promedio (porcentaje de bicicletas disponibles).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://bitbucket.org/JeronimoCarranza2/TFM-Sevici&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Documentación&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;figure&gt;
+    
+        &lt;img src=&#34;https://JeronimoCarranza.github.io/img/2018-TFM-Sevici.png&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>R en QGIS.</title>
+      <link>https://JeronimoCarranza.github.io/es/talk/2017-rinqgis_sevillarusers/</link>
+      <pubDate>Tue, 03 Oct 2017 19:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/es/talk/2017-rinqgis_sevillarusers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SaneaCLM: Sistema de Información de Saneamiento y Depuración de Castilla – La Mancha.</title>
+      <link>https://JeronimoCarranza.github.io/es/project/2015-saneaclm/</link>
+      <pubDate>Thu, 10 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/es/project/2015-saneaclm/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Posición&lt;/em&gt;: Jefe de proyecto.&lt;br /&gt;
+&lt;em&gt;Destinatarios&lt;/em&gt;: Agencia del Agua de Castilla – La Mancha. 2015.&lt;/p&gt;
+
+&lt;p&gt;En el marco del proyecto de “Control y Diagnóstico de Estaciones Depuradoras de Aguas Residuales Urbanas en Castilla-La Mancha, 2011-2015&amp;rdquo;, se ha llevado a cabo el diseño, desarrollo e implantación de una aplicación informática J2EE, denominada SaneaCLM, para la gestión de la información de las depuradoras de aguas residuales urbanas (EDAR) y la explotación gráfica, geográfica y alfanumérica de sus datos estructurales y analíticos. SaneaCLM está basada en las siguientes tecnologías:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;BD: Microsoft SQL Server 2008 R2&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Frameworks J2EE: (Backend: Hibernate, Spring, Jackson y Frontend: JSP, ExtJS and OpenLayers)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Report Server: BIRT&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;GIS Server: OGC-WMS (ArcGIS Server, Geoserver)&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://JeronimoCarranza.github.io/es/publication/2015-saneaclm/&#34;&gt;&lt;strong&gt;Publicación&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;figure&gt;
+    
+        &lt;img src=&#34;https://JeronimoCarranza.github.io/img/2015-SaneaCLM.png&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>SaneaCLM: Sistema de Información de Saneamiento y Depuración de Castilla–La Mancha.</title>
+      <link>https://JeronimoCarranza.github.io/es/publication/2015-saneaclm/</link>
+      <pubDate>Thu, 10 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/es/publication/2015-saneaclm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sistema de Información Geográfica de la Calidad de las Aguas Subterráneas de la Demarcación Hidrográfica del Guadalquivir.</title>
+      <link>https://JeronimoCarranza.github.io/es/project/2011-brocal/</link>
+      <pubDate>Thu, 10 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/es/project/2011-brocal/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Posición&lt;/em&gt;: Jefe de proyecto.&lt;br /&gt;
+&lt;em&gt;Destinatarios&lt;/em&gt;: Confederación Hidrográfica del Guadalquivir. 2011.&lt;/p&gt;
+
+&lt;p&gt;En el marco del proyecto de Apoyo a la explotación de la red de control de la calidad de las aguas subterráneas de la DH del Guadalquivir se desarrolló &amp;ldquo;Brocal&amp;rdquo;, que es un Sistema de Información Geográfica en entorno web que da soporte tanto a las tareas de gestión de la información sobre la calidad de las aguas subterráneas como a su explotación alfanumérica, gráfica y geográfica. Brocal lo integran una aplicación Java (J2EE) con arquitectura de tres capas y cliente webgis, un servidor de mapas OGC y una base de datos con soporte espacial:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;BD: Oracle&lt;/li&gt;
+&lt;li&gt;GIS Server: Geoserver&lt;/li&gt;
+&lt;li&gt;Print Server: MapFishPrint&lt;/li&gt;
+&lt;li&gt;Report Server: JasperReports&lt;/li&gt;
+&lt;li&gt;App J2EE Frameworks: ExtJS, OpenLayers, JSF-RichFace, Spring, JPA-EclipseLink.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://JeronimoCarranza.github.io/es/publication/2012-brocal/&#34;&gt;&lt;strong&gt;Publicación&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;figure&gt;
+    
+        &lt;img src=&#34;https://JeronimoCarranza.github.io/img/2011-Brocal.png&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Infraestructura de Datos Espaciales del Grupo TYPSA.</title>
+      <link>https://JeronimoCarranza.github.io/es/publication/2014-idetypsa/</link>
+      <pubDate>Wed, 10 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/es/publication/2014-idetypsa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Desarrollo e Implementación de un Sistema de Información Geográfica de la Cuenca hidrográfica del Ewaso Ng&#39;Iro South.</title>
+      <link>https://JeronimoCarranza.github.io/es/project/2014-engiros/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/es/project/2014-engiros/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Posición&lt;/em&gt;: Coordinador Técnico.&lt;br /&gt;
+&lt;em&gt;Destinatarios&lt;/em&gt;: Gobierno de Kenia. Ministry of Regional Development Authorities (MoRDA). 2014.&lt;/p&gt;
+
+&lt;p&gt;El proyecto tiene como objetivo el diseño, desarrollo e implementación de un Sistema de Información Geográfica corporativo de la Autoridad Regional de Desarrollo de Ewaso Ng&amp;rsquo;iro Sur (ENSDA), con destino en la Oficina de la Sede del ENSDA en Narok, se proporciona apoyo y la instalación de todo el software y hardware necesario.
+Las actividades desarrolladas incluyen:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Analisis y Diseño&lt;br /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Análisis de la situación existente&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Definición de requerimientos GIS&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Diseño del modelo de datos&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Desarollo del GIS&lt;br /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Recolección de datos&lt;/li&gt;
+&lt;li&gt;Transformación y Carga en la base de datos&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Desarrollo de aplicación específica WebGIS&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Implantación y Training&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Soporte técnico&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Las tecnologías usadas incluyen:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;BD: PostgreSQL 9.2 – PostGIS 2.0&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;GIS Server: Geoserver 2.2 / Geonetwork 2.4&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;WebGIS: ExtJS and OpenLayers&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Desktop GIS: ArcGIS Desktop 10 and QGIS 2.8&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;figure&gt;
+    
+        &lt;img src=&#34;https://JeronimoCarranza.github.io/img/2014-Engiros.png&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Infraestructura de Datos Espaciales del Grupo TYPSA.</title>
+      <link>https://JeronimoCarranza.github.io/es/project/2014-idetypsa/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/es/project/2014-idetypsa/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Posición&lt;/em&gt;: Jefe de proyecto.&lt;br /&gt;
+&lt;em&gt;Destinatarios&lt;/em&gt;: Grupo TYPSA. 2014.&lt;/p&gt;
+
+&lt;p&gt;La Infraestructura de Datos Espaciales del Grupo TYPSA se concibe a través de un proyecto I+D+i interno que tiene como objetivo incrementar la eficiencia en el acceso, uso, explotación y difusión de la información geográfica dentro del Grupo. Todos los componentes software de la IDE de TYPSA son software libre (open source), entre otros:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;BD: PostgreSQL – PostGIS&lt;/li&gt;
+&lt;li&gt;GIS Server: Geoserver&lt;/li&gt;
+&lt;li&gt;Print Server: MapFishPrint&lt;/li&gt;
+&lt;li&gt;WebGIS Client: TYPterraMap with ExtJS and OpenLayers&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://JeronimoCarranza.github.io/es/publication/2014-idetypsa/&#34;&gt;&lt;strong&gt;Publicación&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;figure&gt;
+    
+        &lt;img src=&#34;https://JeronimoCarranza.github.io/img/2014-IDETypsa.png&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Brocal: Sistema de Información Geográfica de la Calidad de las Aguas Subterráneas de la Demarcación Hidrográfica del Guadalquivir.</title>
+      <link>https://JeronimoCarranza.github.io/es/publication/2012-brocal/</link>
+      <pubDate>Mon, 10 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/es/publication/2012-brocal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sistema Brocal: Sistema de Información Geográfica de la Calidad de las Aguas Subterráneas de la Demarcación Hidrográfica del Guadalquivir.</title>
+      <link>https://JeronimoCarranza.github.io/es/publication/2009-brocal_noticiastypsa/</link>
+      <pubDate>Thu, 10 Sep 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/es/publication/2009-brocal_noticiastypsa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guadalquivir en el Informe del Grupo de Cuencas Piloto en Agricultura</title>
+      <link>https://JeronimoCarranza.github.io/es/publication/2007-guadalquivir_prb_report/</link>
+      <pubDate>Thu, 01 Nov 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/es/publication/2007-guadalquivir_prb_report/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DMA y Agricultura: la Cuenca Piloto del Guadalquivir.</title>
+      <link>https://JeronimoCarranza.github.io/es/publication/2007-chgv_ccapiloto_vcongresonacingcivil/</link>
+      <pubDate>Wed, 17 Oct 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/es/publication/2007-chgv_ccapiloto_vcongresonacingcivil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DMA y Agricultura: Gestión de Datos Espaciales en la Cuenca Piloto del Guadalquivir.</title>
+      <link>https://JeronimoCarranza.github.io/es/publication/2006-guadalquivir_prb_spatial_balkan/</link>
+      <pubDate>Mon, 03 Jul 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/es/publication/2006-guadalquivir_prb_spatial_balkan/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -10,7 +10,7 @@ var filtersConfig = {
 	// grid layout customisation
     grid_layout: {
         width: '780px',
-        height: '330px',
+        height: '340px',
         filters: false,
     },
 };

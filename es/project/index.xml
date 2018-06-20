@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Proyectos recientes on Jerónimo Carranza Carranza</title>
+    <link>https://JeronimoCarranza.github.io/es/project/</link>
+    <description>Recent content in Proyectos recientes on Jerónimo Carranza Carranza</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <copyright>&amp;copy; 2018 Jerónimo Carranza Carranza</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://JeronimoCarranza.github.io/es/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Smart Bike – Sevilla: Patrones espacio-temporales y modelos predictivos del uso de las bicicletas de Sevici.</title>
+      <link>https://JeronimoCarranza.github.io/es/project/2018-tfm-sevici/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/es/project/2018-tfm-sevici/</guid>
+      <description>Posición: Autor.
+Destinatarios: Universidad de Sevilla. 2018.
+A partir de los datos abiertos publicados por la empresa de gestión de Sevici y compilados por las Universidades de Huelva y Sevilla durante un año, se identifican los patrones temporales, espaciales y espacio-temporales del uso de las bicicletas de Sevici. Los resultados confirman su uso efectivo como medio de transporte (alternativo) en las actividades diarias y también intuyen el rol funcional preferido en la estructura urbana de las diferentes áreas en las que se ubican las estaciones.</description>
+    </item>
+    
+    <item>
+      <title>SaneaCLM: Sistema de Información de Saneamiento y Depuración de Castilla – La Mancha.</title>
+      <link>https://JeronimoCarranza.github.io/es/project/2015-saneaclm/</link>
+      <pubDate>Thu, 10 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/es/project/2015-saneaclm/</guid>
+      <description>Posición: Jefe de proyecto.
+Destinatarios: Agencia del Agua de Castilla – La Mancha. 2015.
+En el marco del proyecto de “Control y Diagnóstico de Estaciones Depuradoras de Aguas Residuales Urbanas en Castilla-La Mancha, 2011-2015&amp;rdquo;, se ha llevado a cabo el diseño, desarrollo e implantación de una aplicación informática J2EE, denominada SaneaCLM, para la gestión de la información de las depuradoras de aguas residuales urbanas (EDAR) y la explotación gráfica, geográfica y alfanumérica de sus datos estructurales y analíticos.</description>
+    </item>
+    
+    <item>
+      <title>Sistema de Información Geográfica de la Calidad de las Aguas Subterráneas de la Demarcación Hidrográfica del Guadalquivir.</title>
+      <link>https://JeronimoCarranza.github.io/es/project/2011-brocal/</link>
+      <pubDate>Thu, 10 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/es/project/2011-brocal/</guid>
+      <description>Posición: Jefe de proyecto.
+Destinatarios: Confederación Hidrográfica del Guadalquivir. 2011.
+En el marco del proyecto de Apoyo a la explotación de la red de control de la calidad de las aguas subterráneas de la DH del Guadalquivir se desarrolló &amp;ldquo;Brocal&amp;rdquo;, que es un Sistema de Información Geográfica en entorno web que da soporte tanto a las tareas de gestión de la información sobre la calidad de las aguas subterráneas como a su explotación alfanumérica, gráfica y geográfica.</description>
+    </item>
+    
+    <item>
+      <title>Desarrollo e Implementación de un Sistema de Información Geográfica de la Cuenca hidrográfica del Ewaso Ng&#39;Iro South.</title>
+      <link>https://JeronimoCarranza.github.io/es/project/2014-engiros/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/es/project/2014-engiros/</guid>
+      <description>Posición: Coordinador Técnico.
+Destinatarios: Gobierno de Kenia. Ministry of Regional Development Authorities (MoRDA). 2014.
+El proyecto tiene como objetivo el diseño, desarrollo e implementación de un Sistema de Información Geográfica corporativo de la Autoridad Regional de Desarrollo de Ewaso Ng&amp;rsquo;iro Sur (ENSDA), con destino en la Oficina de la Sede del ENSDA en Narok, se proporciona apoyo y la instalación de todo el software y hardware necesario. Las actividades desarrolladas incluyen:</description>
+    </item>
+    
+    <item>
+      <title>Infraestructura de Datos Espaciales del Grupo TYPSA.</title>
+      <link>https://JeronimoCarranza.github.io/es/project/2014-idetypsa/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/es/project/2014-idetypsa/</guid>
+      <description>Posición: Jefe de proyecto.
+Destinatarios: Grupo TYPSA. 2014.
+La Infraestructura de Datos Espaciales del Grupo TYPSA se concibe a través de un proyecto I+D+i interno que tiene como objetivo incrementar la eficiencia en el acceso, uso, explotación y difusión de la información geográfica dentro del Grupo. Todos los componentes software de la IDE de TYPSA son software libre (open source), entre otros:
+ BD: PostgreSQL – PostGIS GIS Server: Geoserver Print Server: MapFishPrint WebGIS Client: TYPterraMap with ExtJS and OpenLayers  Publicación</description>
+    </item>
+    
+  </channel>
+</rss>

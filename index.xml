@@ -91,7 +91,7 @@ Predictive models of the use of bicycles have also been built, for short-range t
 
 &lt;ul&gt;
 &lt;li&gt;BD: Oracle&lt;/li&gt;
-&lt;li&gt;GIS Server GIS: Geoserver&lt;/li&gt;
+&lt;li&gt;GIS Server: Geoserver&lt;/li&gt;
 &lt;li&gt;Print Server: MapFishPrint&lt;/li&gt;
 &lt;li&gt;Report Server: JasperReports&lt;/li&gt;
 &lt;li&gt;App J2EE Frameworks: ExtJS, OpenLayers, JSF-RichFace, Spring, JPA-EclipseLink.&lt;/li&gt;
@@ -172,25 +172,22 @@ Predictive models of the use of bicycles have also been built, for short-range t
 The activities developed include:&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Analysis and Design&lt;/p&gt;
+&lt;li&gt;Analysis and Design&lt;br /&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Analysis of the existing situation&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;Definition of GIS requirements&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;Design of the data model&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Development of the GIS&lt;/p&gt;
+&lt;li&gt;Development of the GIS&lt;br /&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Data collection&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;Transformation and Load in the database&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;Development of specific WebGIS application&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Implantation and Training&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Technical support&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;Implantation and Training&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Technical support&lt;br /&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;The technologies used include:&lt;/p&gt;
