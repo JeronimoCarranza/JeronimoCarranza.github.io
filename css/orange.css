@@ -137,7 +137,7 @@ a:focus {
 
 html {
   font-family: 'Monserrat', sans-serif; /*Monserrat, sans-serif*/
-  font-weight: 310;                     /*300*/
+  font-weight: 400;                     /*300*/
   font-size: 14px;                      /*16*/
   color: rgba(0,0,0,0.8);
   line-height: 1.65;
