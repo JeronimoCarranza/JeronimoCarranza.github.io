@@ -13,6 +13,42 @@
     
     
     <item>
+      <title>Computer technical assistance in the deployment, management and maintenance of servers, OGC map services and WebGIS viewer for the public exhibition of the review of floodplains of the Júcar River Basin District.</title>
+      <link>https://JeronimoCarranza.github.io/project/2020-webgis-jucar/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/project/2020-webgis-jucar/</guid>
+      <description>Posición: Head of project.
+Destinatarios: TYPSA for Júcar River Basin Authority. 2020.
+The work carried out has consisted in summary of:
+ Domain registration revision-snczi-jucar.es. Linux VPS Server Configuration and Deployment of Base Applications. GIS Server Configuration: Geoserver. Publication of OGC Services: WFS / WCS / WMS. Adaptation, Deployment, Configuration and Personalization of Basic WebGIS Client. Monthly maintenance for thirteen months.    </description>
+    </item>
+    
+    <item>
+      <title>Delineation of the water surface and its evolution after the floods of the September 13, 2019 in Vega Baja of the Segura River using remote sensing techniques.</title>
+      <link>https://JeronimoCarranza.github.io/project/2019-vegabaja-segura/</link>
+      <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/project/2019-vegabaja-segura/</guid>
+      <description>Posición: Head of project.
+Destinatarios: TYPSA. 2019.
+The work carried out has consisted in summary of:
+ Acquisition of COSMO-SkyMed satellite image of 09/14/2019 (StripMap HIMAGE) of the Vega Baja del Río Segura. Treatment of 11 images from the Sentinel-1, Sentinel-2, PlanetScope and SkyMed satellites between September 10 and 29 in the Vega Baja del Río Segura (696 Km2), through correction, calculation of indices, thresholding and vectorization of flooded surfaces. Report writing.</description>
+    </item>
+    
+    <item>
+      <title>Study of the evolution of the flooded surface of the Doñana lagoons between November 2017 and November 2018 [CU(PH)-6134].</title>
+      <link>https://JeronimoCarranza.github.io/project/2019-lagunas-donana/</link>
+      <pubDate>Sun, 31 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/project/2019-lagunas-donana/</guid>
+      <description>Posición: Head of project.
+Destinatarios: Guadalquivir River Basin Authority. Hydrologic Planning Office. 2019.
+The work carried out corresponds to the update, until November 2018, of the series of data to monitor the evolution of the flooded surface and vegetation in the Doñana lake-type water bodies, derived from remote sensing, and more specifically:
+ Determination of the frequency of flooding and analysis of the evolution of the extension of the water surface in the study period, from the water index (MNDWI), derived from satellite images and its relationship with the rainfall data.</description>
+    </item>
+    
+    <item>
       <title>Smart Bike - Sevilla: Spatio-Temporal Patterns and Predictive Models of the use of Sevici&#39;s bicycles.</title>
       <link>https://JeronimoCarranza.github.io/project/2018-tfm-sevici/</link>
       <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>

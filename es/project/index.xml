@@ -13,6 +13,42 @@
     
     
     <item>
+      <title>Asistencia técnica informática en el despliegue, gestión y mantenimiento de servidores, servicios de mapas OGC y visor WebGIS para la exposición pública de la revisión de zonas inundables de la Demarcación Hidrográfica del Júcar.</title>
+      <link>https://JeronimoCarranza.github.io/es/project/2020-webgis-jucar/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/es/project/2020-webgis-jucar/</guid>
+      <description>Posición: Jefe de proyecto.
+Destinatarios: TYPSA para Confederación Hidrográfica del Júcar. 2020.
+Los trabajos realizados han consistido resumidamente en:
+ Registro de dominio revision-snczi-jucar.es. Configuración de Servidor VPS Linux y Despliegue de Aplicaciones Base. Configuración de Servidor GIS: Geoserver. Publicación de Servicios OGC: WFS / WCS / WMS. Adaptación, Despliegue, Configuración y Personalización de Cliente WebGIS Básico. Mantenimiento mensual durante trece meses.    </description>
+    </item>
+    
+    <item>
+      <title>Delimitación de la lámina de agua y su evolución tras las inundaciones del 13 de septiembre de 2019 en la Vega Baja del Río Segura mediante técnicas de teledetección.</title>
+      <link>https://JeronimoCarranza.github.io/es/project/2019-vegabaja-segura/</link>
+      <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/es/project/2019-vegabaja-segura/</guid>
+      <description>Posición: Jefe de proyecto.
+Destinatarios: TYPSA. 2019.
+Los trabajos realizados han consistido resumidamente en:
+ Adquisición de imagen de satélite COSMO-SkyMed del día 14/09/2019 (StripMap HIMAGE) de la Vega Baja del Río Segura. Tratamiento de 11 imágenes de los satélites Sentinel-1, Sentinel-2, PlanetScope y SkyMed entre los días 10 y 29 de septiembre en la Vega Baja del Río Segura (696 Km2), mediante corrección, cálculo de índices, umbralización y vectorización de las superficies inundadas.</description>
+    </item>
+    
+    <item>
+      <title>Estudio de la evolución de la superficie inundada de las lagunas de Doñana entre noviembre de 2017 y noviembre de 2018 [CU(PH)-6134].</title>
+      <link>https://JeronimoCarranza.github.io/es/project/2019-lagunas-donana/</link>
+      <pubDate>Sun, 31 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/es/project/2019-lagunas-donana/</guid>
+      <description>Posición: Jefe de proyecto.
+Destinatarios: Confederación Hidrográfica del Guadalquivir. Oficina de Planificación Hidrológica. 2019.
+Los trabajos realizados corresponden a la actualización, hasta Noviembre de 2018, de la serie de datos de seguimiento de la evolución de la superficie inundada y de la vegetación en las masas de agua tipo lago de Doñana, derivados de teledetección, y más concretamente:
+ Determinación de la frecuencia de inundación y análisis de la evolución de la extensión de la lámina de agua en el periodo de estudio, a partir del índice de agua (MNDWI), derivado de las imágenes de satélite y su relación con los datos de pluviometría.</description>
+    </item>
+    
+    <item>
       <title>Smart Bike – Sevilla: Patrones espacio-temporales y modelos predictivos del uso de las bicicletas de Sevici.</title>
       <link>https://JeronimoCarranza.github.io/es/project/2018-tfm-sevici/</link>
       <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>

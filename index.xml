@@ -11,6 +11,107 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Computer technical assistance in the deployment, management and maintenance of servers, OGC map services and WebGIS viewer for the public exhibition of the review of floodplains of the Júcar River Basin District.</title>
+      <link>https://JeronimoCarranza.github.io/project/2020-webgis-jucar/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/project/2020-webgis-jucar/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Posición&lt;/em&gt;: Head of project.&lt;br /&gt;
+&lt;em&gt;Destinatarios&lt;/em&gt;: TYPSA for Júcar River Basin Authority. 2020.&lt;/p&gt;
+
+&lt;p&gt;The work carried out has consisted in summary of:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Domain registration revision-snczi-jucar.es.&lt;/li&gt;
+&lt;li&gt;Linux VPS Server Configuration and Deployment of Base Applications.&lt;/li&gt;
+&lt;li&gt;GIS Server Configuration: Geoserver.&lt;/li&gt;
+&lt;li&gt;Publication of OGC Services: WFS / WCS / WMS.&lt;/li&gt;
+&lt;li&gt;Adaptation, Deployment, Configuration and Personalization of Basic WebGIS Client.&lt;/li&gt;
+&lt;li&gt;Monthly maintenance for thirteen months.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;https://JeronimoCarranza.github.io/img/2020-WebGIS-Jucar.png&#34;/&gt; 
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Remote sensing with R.</title>
+      <link>https://JeronimoCarranza.github.io/talk/2019-teledeteccion_sevillar/</link>
+      <pubDate>Tue, 12 Nov 2019 19:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/talk/2019-teledeteccion_sevillar/</guid>
+      <description>&lt;figure&gt;
+    &lt;img src=&#34;https://JeronimoCarranza.github.io/img/RStudio_SevillaR_Teledeteccion_con_R.png&#34;/&gt; 
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Delineation of the water surface and its evolution after the floods of the September 13, 2019 in Vega Baja of the Segura River using remote sensing techniques.</title>
+      <link>https://JeronimoCarranza.github.io/project/2019-vegabaja-segura/</link>
+      <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/project/2019-vegabaja-segura/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Posición&lt;/em&gt;: Head of project.&lt;br /&gt;
+&lt;em&gt;Destinatarios&lt;/em&gt;: TYPSA. 2019.&lt;/p&gt;
+
+&lt;p&gt;The work carried out has consisted in summary of:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Acquisition of COSMO-SkyMed satellite image of 09/14/2019 (StripMap HIMAGE) of the Vega Baja del Río Segura.&lt;/li&gt;
+&lt;li&gt;Treatment of 11 images from the Sentinel-1, Sentinel-2, PlanetScope and SkyMed satellites between September 10 and 29 in the Vega Baja del Río Segura (696 Km2), through correction, calculation of indices, thresholding and vectorization of flooded surfaces.&lt;/li&gt;
+&lt;li&gt;Report writing.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;https://JeronimoCarranza.github.io/img/2019-VegaBaja-Segura.png&#34;/&gt; 
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Study of the evolution of the flooded surface of the Doñana lagoons between November 2017 and November 2018 [CU(PH)-6134].</title>
+      <link>https://JeronimoCarranza.github.io/project/2019-lagunas-donana/</link>
+      <pubDate>Sun, 31 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/project/2019-lagunas-donana/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Posición&lt;/em&gt;: Head of project.&lt;br /&gt;
+&lt;em&gt;Destinatarios&lt;/em&gt;: Guadalquivir River Basin Authority. Hydrologic Planning Office. 2019.&lt;/p&gt;
+
+&lt;p&gt;The work carried out corresponds to the update, until November 2018, of the series of data to monitor the evolution of the flooded surface and vegetation in the Doñana lake-type water bodies, derived from remote sensing, and more specifically:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Determination of the frequency of flooding and analysis of the evolution of the extension of the water surface in the study period, from the water index (MNDWI), derived from satellite images and its relationship with the rainfall data.&lt;/li&gt;
+&lt;li&gt;Evolution of vegetation from the vegetation index (NDVI) derived from satellite images for the study period.&lt;/li&gt;
+&lt;li&gt;Images from the Sentinel 2 satellite have been used, and an image has been selected for each of the months.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;https://JeronimoCarranza.github.io/img/2019-Lagunas-Donana.png&#34;/&gt; 
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Geometric-topological debugging of geographic data with R.</title>
+      <link>https://JeronimoCarranza.github.io/talk/2019-depurgeo_sevillar/</link>
+      <pubDate>Tue, 08 Jan 2019 19:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/talk/2019-depurgeo_sevillar/</guid>
+      <description>&lt;figure&gt;
+    &lt;img src=&#34;https://JeronimoCarranza.github.io/img/2019-DepuRGeo-SevillaR.png&#34;/&gt; 
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Spatio-Temporal Patterns and Predictive Models of the use of Sevici&#39;s bicycles.</title>
       <link>https://JeronimoCarranza.github.io/talk/2018-sevici_sevillar/</link>
       <pubDate>Tue, 05 Jun 2018 19:00:00 +0000</pubDate>
@@ -211,51 +312,6 @@ The activities developed include:&lt;/p&gt;
 &lt;/figure&gt;
 
 </description>
-    </item>
-    
-    <item>
-      <title>Brocal: Geographic Information System of Groundwater Quality in the Guadalquivir River Basin.</title>
-      <link>https://JeronimoCarranza.github.io/publication/2012-brocal/</link>
-      <pubDate>Mon, 10 Sep 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://JeronimoCarranza.github.io/publication/2012-brocal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Brocal System: Geographic Information System of Groundwater Quality in Guadalquivir River Basin.</title>
-      <link>https://JeronimoCarranza.github.io/publication/2009-brocal_noticiastypsa/</link>
-      <pubDate>Thu, 10 Sep 2009 00:00:00 +0000</pubDate>
-      
-      <guid>https://JeronimoCarranza.github.io/publication/2009-brocal_noticiastypsa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Guadalquivir in the Report of the Pilot River Basin Group on Agriculture</title>
-      <link>https://JeronimoCarranza.github.io/publication/2007-guadalquivir_prb_report/</link>
-      <pubDate>Thu, 01 Nov 2007 00:00:00 +0000</pubDate>
-      
-      <guid>https://JeronimoCarranza.github.io/publication/2007-guadalquivir_prb_report/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>WFD &amp; Agriculture: the Pilot River Basin of Guadalquivir.</title>
-      <link>https://JeronimoCarranza.github.io/publication/2007-chgv_ccapiloto_vcongresonacingcivil/</link>
-      <pubDate>Wed, 17 Oct 2007 00:00:00 +0000</pubDate>
-      
-      <guid>https://JeronimoCarranza.github.io/publication/2007-chgv_ccapiloto_vcongresonacingcivil/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>WFD and Agriculture: Spatial Data Management in the Guadalquivir Pilot River Basin.</title>
-      <link>https://JeronimoCarranza.github.io/publication/2006-guadalquivir_prb_spatial_balkan/</link>
-      <pubDate>Mon, 03 Jul 2006 00:00:00 +0000</pubDate>
-      
-      <guid>https://JeronimoCarranza.github.io/publication/2006-guadalquivir_prb_spatial_balkan/</guid>
-      <description></description>
     </item>
     
   </channel>

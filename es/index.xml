@@ -11,6 +11,107 @@
     <atom:link href="/es/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Asistencia técnica informática en el despliegue, gestión y mantenimiento de servidores, servicios de mapas OGC y visor WebGIS para la exposición pública de la revisión de zonas inundables de la Demarcación Hidrográfica del Júcar.</title>
+      <link>https://JeronimoCarranza.github.io/es/project/2020-webgis-jucar/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/es/project/2020-webgis-jucar/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Posición&lt;/em&gt;: Jefe de proyecto.&lt;br /&gt;
+&lt;em&gt;Destinatarios&lt;/em&gt;: TYPSA para Confederación Hidrográfica del Júcar. 2020.&lt;/p&gt;
+
+&lt;p&gt;Los trabajos realizados han consistido resumidamente en:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Registro de dominio revision-snczi-jucar.es.&lt;/li&gt;
+&lt;li&gt;Configuración de Servidor VPS Linux y Despliegue de Aplicaciones Base.&lt;/li&gt;
+&lt;li&gt;Configuración de Servidor GIS: Geoserver.&lt;/li&gt;
+&lt;li&gt;Publicación de Servicios OGC: WFS / WCS / WMS.&lt;/li&gt;
+&lt;li&gt;Adaptación, Despliegue, Configuración y Personalización de Cliente WebGIS Básico.&lt;/li&gt;
+&lt;li&gt;Mantenimiento mensual durante trece meses.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;https://JeronimoCarranza.github.io/img/2020-WebGIS-Jucar.png&#34;/&gt; 
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Teledetección con R.</title>
+      <link>https://JeronimoCarranza.github.io/es/talk/2019-teledeteccion_sevillar/</link>
+      <pubDate>Tue, 12 Nov 2019 19:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/es/talk/2019-teledeteccion_sevillar/</guid>
+      <description>&lt;figure&gt;
+    &lt;img src=&#34;https://JeronimoCarranza.github.io/img/RStudio_SevillaR_Teledeteccion_con_R.png&#34;/&gt; 
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Delimitación de la lámina de agua y su evolución tras las inundaciones del 13 de septiembre de 2019 en la Vega Baja del Río Segura mediante técnicas de teledetección.</title>
+      <link>https://JeronimoCarranza.github.io/es/project/2019-vegabaja-segura/</link>
+      <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/es/project/2019-vegabaja-segura/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Posición&lt;/em&gt;: Jefe de proyecto.&lt;br /&gt;
+&lt;em&gt;Destinatarios&lt;/em&gt;: TYPSA. 2019.&lt;/p&gt;
+
+&lt;p&gt;Los trabajos realizados han consistido resumidamente en:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Adquisición de imagen de satélite COSMO-SkyMed del día 14/09/2019 (StripMap HIMAGE) de la Vega Baja del Río Segura.&lt;/li&gt;
+&lt;li&gt;Tratamiento de 11 imágenes de los satélites Sentinel-1, Sentinel-2, PlanetScope y SkyMed entre los días 10 y 29 de septiembre en la Vega Baja del Río Segura (696 Km2), mediante corrección, cálculo de índices, umbralización y vectorización de las superficies inundadas.&lt;/li&gt;
+&lt;li&gt;Redacción de informe.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;https://JeronimoCarranza.github.io/img/2019-VegaBaja-Segura.png&#34;/&gt; 
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Estudio de la evolución de la superficie inundada de las lagunas de Doñana entre noviembre de 2017 y noviembre de 2018 [CU(PH)-6134].</title>
+      <link>https://JeronimoCarranza.github.io/es/project/2019-lagunas-donana/</link>
+      <pubDate>Sun, 31 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/es/project/2019-lagunas-donana/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Posición&lt;/em&gt;: Jefe de proyecto.&lt;br /&gt;
+&lt;em&gt;Destinatarios&lt;/em&gt;: Confederación Hidrográfica del Guadalquivir. Oficina de Planificación Hidrológica. 2019.&lt;/p&gt;
+
+&lt;p&gt;Los trabajos realizados corresponden a la actualización, hasta Noviembre de 2018, de la serie de datos de seguimiento de la evolución de la superficie inundada y de la vegetación en las masas de agua tipo lago de Doñana, derivados de teledetección, y más concretamente:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Determinación de la frecuencia de inundación y análisis de la evolución de la extensión de la lámina de agua en el periodo de estudio, a partir del índice de agua (MNDWI), derivado de las imágenes de satélite y su relación con los datos de pluviometría.&lt;/li&gt;
+&lt;li&gt;Evolución de la vegetación a partir del índice de vegetación (NDVI) derivado de las imágenes de satélite para el periodo de estudio.&lt;/li&gt;
+&lt;li&gt;Se han utilizado imágenes del satélite Sentinel 2, y se ha seleccionado una imagen para cada uno de los meses.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;https://JeronimoCarranza.github.io/img/2019-Lagunas-Donana.png&#34;/&gt; 
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Depuración geométrica-topológica de datos geográficos con R.</title>
+      <link>https://JeronimoCarranza.github.io/es/talk/2019-depurgeo_sevillar/</link>
+      <pubDate>Tue, 08 Jan 2019 19:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/es/talk/2019-depurgeo_sevillar/</guid>
+      <description>&lt;figure&gt;
+    &lt;img src=&#34;https://JeronimoCarranza.github.io/img/2019-DepuRGeo-SevillaR.png&#34;/&gt; 
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Patrones espacio-temporales y modelos predictivos del uso de las bicicletas de Sevici.</title>
       <link>https://JeronimoCarranza.github.io/es/talk/2018-sevici_sevillar/</link>
       <pubDate>Tue, 05 Jun 2018 19:00:00 +0000</pubDate>
@@ -211,51 +312,6 @@ Las actividades desarrolladas incluyen:&lt;/p&gt;
 &lt;/figure&gt;
 
 </description>
-    </item>
-    
-    <item>
-      <title>Brocal: Sistema de Información Geográfica de la Calidad de las Aguas Subterráneas de la Demarcación Hidrográfica del Guadalquivir.</title>
-      <link>https://JeronimoCarranza.github.io/es/publication/2012-brocal/</link>
-      <pubDate>Mon, 10 Sep 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://JeronimoCarranza.github.io/es/publication/2012-brocal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sistema Brocal: Sistema de Información Geográfica de la Calidad de las Aguas Subterráneas de la Demarcación Hidrográfica del Guadalquivir.</title>
-      <link>https://JeronimoCarranza.github.io/es/publication/2009-brocal_noticiastypsa/</link>
-      <pubDate>Thu, 10 Sep 2009 00:00:00 +0000</pubDate>
-      
-      <guid>https://JeronimoCarranza.github.io/es/publication/2009-brocal_noticiastypsa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Guadalquivir en el Informe del Grupo de Cuencas Piloto en Agricultura</title>
-      <link>https://JeronimoCarranza.github.io/es/publication/2007-guadalquivir_prb_report/</link>
-      <pubDate>Thu, 01 Nov 2007 00:00:00 +0000</pubDate>
-      
-      <guid>https://JeronimoCarranza.github.io/es/publication/2007-guadalquivir_prb_report/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DMA y Agricultura: la Cuenca Piloto del Guadalquivir.</title>
-      <link>https://JeronimoCarranza.github.io/es/publication/2007-chgv_ccapiloto_vcongresonacingcivil/</link>
-      <pubDate>Wed, 17 Oct 2007 00:00:00 +0000</pubDate>
-      
-      <guid>https://JeronimoCarranza.github.io/es/publication/2007-chgv_ccapiloto_vcongresonacingcivil/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DMA y Agricultura: Gestión de Datos Espaciales en la Cuenca Piloto del Guadalquivir.</title>
-      <link>https://JeronimoCarranza.github.io/es/publication/2006-guadalquivir_prb_spatial_balkan/</link>
-      <pubDate>Mon, 03 Jul 2006 00:00:00 +0000</pubDate>
-      
-      <guid>https://JeronimoCarranza.github.io/es/publication/2006-guadalquivir_prb_spatial_balkan/</guid>
-      <description></description>
     </item>
     
   </channel>
