@@ -13,6 +13,40 @@
     
     
     <item>
+      <title>PROVISIÓN DE INFORMACIÓN DE VARIAS ACTIVIDADES ESTADÍSTICAS DEL P.E.C.A. 2013- 2020. Lote 3. Bases de datos de las inscripciones registrales de las Sociedades Andaluzas, diciembre 2018 / enero 2021.</title>
+      <link>https://JeronimoCarranza.github.io/es/project/2022-bormes-ieca/</link>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/es/project/2022-bormes-ieca/</guid>
+      <description>Posición: Jefe de proyecto.
+Destinatarios: Instituto de Estadística y Cartografía de Andalucía. 2022.
+Los trabajos realizados han consistido resumidamente en la provisión en formato electrónico, en bases de datos, de los actos registrales relativos a la constitución, ampliación y reducción de capital, desembolso de dividendos pasivos, transformación, escisión, fusión, disolución, extinción y distintas fases de concurso de acreedores de las sociedades mercantiles andaluzas publicados en el Boletín Oficial del Registro Mercantil (BORME), así como el CIF y la CNAE de dichas entidades.</description>
+    </item>
+    
+    <item>
+      <title>Asistencia técnica informática para la creación de una base de datos espacial de libre distribución para almacenar y gestionar los datos recopilados en el catálogo de infraestructuras hidráulicas de saneamiento de la Comunidad Valenciana.</title>
+      <link>https://JeronimoCarranza.github.io/es/project/2022-saneacv/</link>
+      <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/es/project/2022-saneacv/</guid>
+      <description>Posición: Jefe de proyecto.
+Destinatarios: TYPSA para Conselleria de Agricultura, Desarrollo Rural, Emergencias Climáticas y Transición Ecológica. Generalitat Valenciana. 2022.
+Los trabajos realizados han consistido esquemáticamente en:
+ Definición e implementación del modelo de datos del Catálogo de Infraestructuras Hidráulicas de Saneamiento de la Comunidad Valenciana como base de datos Postgresql / Postgis. Implementación del modelo, en pruebas, como alternativa o intercambio, en base datos SQLite / Geopackage. Descarga de datos geoespaciales y alfanuméricos EIEL, procesado y carga de datos.</description>
+    </item>
+    
+    <item>
+      <title>Análisis y diagnóstico de las necesidades de marquesinas y propuesta de mejora de la accesibilidad y seguridad vial en las paradas de transporte público en la provincia de Sevilla, excluido ámbito competencial del Consorcio de Transportes Metropolitano de Sevilla. 015/2021- SERV.</title>
+      <link>https://JeronimoCarranza.github.io/es/project/2021-paradasbus-sevilla/</link>
+      <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/es/project/2021-paradasbus-sevilla/</guid>
+      <description>Posición: Jefe de proyecto.
+Destinatarios: Delegación Territorial de la Consejería de Fomento, Infraestructuras y Ordenación del Territorio en Sevilla. Junta de Andalucía. 2021.
+Los trabajos realizados corresponden a la identificación, análisis y diagnóstico de las paradas de transporte público regular de uso general en la provincia de Sevilla, excluido el ámbito competencial del Consorcio de Transporte Público de la Provincia de Sevilla, determinando para cada parada si existe marquesina y/o poste informativo en ese punto, equipamientos y, en caso afirmativo, el estado de conservación y las necesidades de mantenimiento concretas que requieran.</description>
+    </item>
+    
+    <item>
       <title>Asistencia técnica informática en el despliegue, gestión y mantenimiento de servidores, servicios de mapas OGC y visor WebGIS para la exposición pública de la revisión de zonas inundables de la Demarcación Hidrográfica del Júcar.</title>
       <link>https://JeronimoCarranza.github.io/es/project/2020-webgis-jucar/</link>
       <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>

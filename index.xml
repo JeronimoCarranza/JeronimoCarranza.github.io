@@ -11,6 +11,107 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>PROVISION OF INFORMATION ON SEVERAL STATISTICAL ACTIVITIES OF P.E.C.A. 2013- 2020. Lot 3. Databases of registrations of Andalusian Companies, December 2018 / January 2021.</title>
+      <link>https://JeronimoCarranza.github.io/project/2022-bormes-ieca/</link>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/project/2022-bormes-ieca/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Position&lt;/em&gt;: Head of project.&lt;br /&gt;
+&lt;em&gt;Recipients&lt;/em&gt;: Institute of Statistics and Cartography of Andalusia. 2022.&lt;/p&gt;
+
+&lt;p&gt;The work carried out has consisted in summary of the provision in electronic format, in databases, of the registry acts related to the constitution, increase and reduction of capital, disbursement of passive dividends, transformation, split, merger, dissolution, extinction and different phases bankruptcy of Andalusian commercial companies published in the Official Gazette of the Mercantile Registry (BORME), as well as the CIF and CNAE of said entities.&lt;/p&gt;
+
+&lt;p&gt;To carry out these works, a set of automation routines have been developed for the download, reading, transformation, enrichment and data validation processes developed using the R programming language and SQLite as a support database.&lt;/p&gt;
+
+&lt;p&gt;The processed data has fed the official Statistics on Andalusian Commercial Companies between December 2018 and March 2022.&lt;/p&gt;
+
+
+&lt;figure&gt;
+    
+        &lt;img src=&#34;https://JeronimoCarranza.github.io/img/2022-Borme-Ieca.png&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Computer technical assistance for the creation of a open spatial database to store and manage the data compiled in the catalog of hydraulic sanitation infrastructures of the Comunidad Valenciana.</title>
+      <link>https://JeronimoCarranza.github.io/project/2022-saneacv/</link>
+      <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/project/2022-saneacv/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Position&lt;/em&gt;: Head of project.&lt;br /&gt;
+&lt;em&gt;Recipients&lt;/em&gt;: TYPSA for the Department of Agriculture, Rural Development, Climate Emergencies and Ecological Transition. Government of Valencia. 2022.&lt;/p&gt;
+
+&lt;p&gt;The works carried out have consisted schematically of:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Definition and implementation of the data model of the Catalog of Hydraulic Infrastructures for Sanitation of the Valencian Community as a Postgresql / Postgis database.&lt;/li&gt;
+&lt;li&gt;Implementation of the model, in tests, as an alternative or exchange, in SQLite / Geopackage database.&lt;/li&gt;
+&lt;li&gt;Download of geospatial and alphanumeric EIEL data, processing and loading of data.&lt;/li&gt;
+&lt;li&gt;Integration of EIEL municipal data.&lt;/li&gt;
+&lt;li&gt;Ingestion and integration of information from municipalities and management organizations.&lt;/li&gt;
+&lt;li&gt;Implementation, loading and integration of geospatial and alphanumeric sanitation data from EPSAR, DGA, Global Omnium and other sources.&lt;/li&gt;
+&lt;li&gt;Downloading of data from administrative divisions, populations and nuclei of the CNIG, loading, integration and debugging of geospatial data.&lt;/li&gt;
+&lt;li&gt;Development of QGIS base project for visualization and consultation of data available in the database.&lt;/li&gt;
+&lt;li&gt;Design and implementation of data mining queries.&lt;/li&gt;
+&lt;li&gt;WebGIS application. Deployment, adaptation, customization and start-up of a WebGIS application with access control for consultation, alphanumeric editing and validation by the municipalities of the information collected from the sanitation infrastructures of each one of them. It has also had access enabled for the CHJ and the Diputación de Castellón.&lt;/li&gt;
+&lt;li&gt;WebGIS application maintenance for 14 months.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;
+&lt;figure&gt;
+    
+        &lt;img src=&#34;https://JeronimoCarranza.github.io/img/2022-Saneacv-0.png&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;figure&gt;
+    
+        &lt;img src=&#34;https://JeronimoCarranza.github.io/img/2022-Saneacv-1.png&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Analysis and diagnosis of the needs for bus shelters and proposals for improving accessibility and road safety at public transport stops in the province of Seville, excluding the sphere of competence of the Seville Metropolitan Transport Consortium. 015/2021- SERV.</title>
+      <link>https://JeronimoCarranza.github.io/project/2021-paradasbus-sevilla/</link>
+      <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/project/2021-paradasbus-sevilla/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Position&lt;/em&gt;: Head of project.&lt;br /&gt;
+&lt;em&gt;Recipients&lt;/em&gt;: Territorial Delegation of the Regional Ministry of Development, Infrastructure and Territory Planning in Seville. Government of Andalusia. 2021.&lt;/p&gt;
+
+&lt;p&gt;The work carried out corresponds to the identification, analysis and diagnosis of regular public transport stops for general use in the province of Seville, excluding the sphere of competence of the Public Transport Consortium of the Province of Seville, determining for each stop if there is a marquee and /or information post at that point, equipment and, if so, the state of conservation and the specific maintenance needs required. Likewise, the analysis of the accessibility and road safety of the stops is included, and they have schematically consisted of:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Identification and determination of the points where the regular transport lines for general use of the Junta de Andalucía stop in the province of Seville within the territorial scope of the Territorial Delegation of the Ministry of Development, Infrastructure and Territorial Planning In sevilla. (1029 points).&lt;/li&gt;
+&lt;li&gt;Elaboration of Work Plan and File Model: Field, Diagnosis and Proposal File Model.&lt;/li&gt;
+&lt;li&gt;Field work to verify the existence and analysis of the characteristics and condition of the equipment, accessibility and road safety.&lt;/li&gt;
+&lt;li&gt;Writing of Diagnosis Memory, Evaluation of the situation of the stops and Proposal of actions.&lt;/li&gt;
+&lt;li&gt;Development of database, GIS project and report.&lt;/li&gt;
+&lt;li&gt;The GIS tools and formats used in the development of the work have been: SQLite database, Geopackage format, desktop GIS QGIS and QField for field work.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;figure&gt;
+    
+        &lt;img src=&#34;https://JeronimoCarranza.github.io/img/2021-ParadasBus-Sevilla.png&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Computer technical assistance in the deployment, management and maintenance of servers, OGC map services and WebGIS viewer for the public exhibition of the review of floodplains of the Júcar River Basin District.</title>
       <link>https://JeronimoCarranza.github.io/project/2020-webgis-jucar/</link>
       <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
@@ -30,8 +131,12 @@
 &lt;li&gt;Monthly maintenance for thirteen months.&lt;/li&gt;
 &lt;/ul&gt;
 
+
 &lt;figure&gt;
-    &lt;img src=&#34;https://JeronimoCarranza.github.io/img/2020-WebGIS-Jucar.png&#34;/&gt; 
+    
+        &lt;img src=&#34;https://JeronimoCarranza.github.io/img/2020-WebGIS-Jucar.png&#34; /&gt;
+    
+    
 &lt;/figure&gt;
 
 </description>
@@ -43,8 +148,12 @@
       <pubDate>Tue, 12 Nov 2019 19:00:00 +0000</pubDate>
       
       <guid>https://JeronimoCarranza.github.io/talk/2019-teledeteccion_sevillar/</guid>
-      <description>&lt;figure&gt;
-    &lt;img src=&#34;https://JeronimoCarranza.github.io/img/RStudio_SevillaR_Teledeteccion_con_R.png&#34;/&gt; 
+      <description>
+&lt;figure&gt;
+    
+        &lt;img src=&#34;https://JeronimoCarranza.github.io/img/RStudio_SevillaR_Teledeteccion_con_R.png&#34; /&gt;
+    
+    
 &lt;/figure&gt;
 
 </description>
@@ -67,8 +176,12 @@
 &lt;li&gt;Report writing.&lt;/li&gt;
 &lt;/ul&gt;
 
+
 &lt;figure&gt;
-    &lt;img src=&#34;https://JeronimoCarranza.github.io/img/2019-VegaBaja-Segura.png&#34;/&gt; 
+    
+        &lt;img src=&#34;https://JeronimoCarranza.github.io/img/2019-VegaBaja-Segura.png&#34; /&gt;
+    
+    
 &lt;/figure&gt;
 
 </description>
@@ -91,8 +204,12 @@
 &lt;li&gt;Images from the Sentinel 2 satellite have been used, and an image has been selected for each of the months.&lt;/li&gt;
 &lt;/ul&gt;
 
+
 &lt;figure&gt;
-    &lt;img src=&#34;https://JeronimoCarranza.github.io/img/2019-Lagunas-Donana.png&#34;/&gt; 
+    
+        &lt;img src=&#34;https://JeronimoCarranza.github.io/img/2019-Lagunas-Donana.png&#34; /&gt;
+    
+    
 &lt;/figure&gt;
 
 </description>
@@ -104,8 +221,12 @@
       <pubDate>Tue, 08 Jan 2019 19:00:00 +0000</pubDate>
       
       <guid>https://JeronimoCarranza.github.io/talk/2019-depurgeo_sevillar/</guid>
-      <description>&lt;figure&gt;
-    &lt;img src=&#34;https://JeronimoCarranza.github.io/img/2019-DepuRGeo-SevillaR.png&#34;/&gt; 
+      <description>
+&lt;figure&gt;
+    
+        &lt;img src=&#34;https://JeronimoCarranza.github.io/img/2019-DepuRGeo-SevillaR.png&#34; /&gt;
+    
+    
 &lt;/figure&gt;
 
 </description>
@@ -117,8 +238,12 @@
       <pubDate>Tue, 05 Jun 2018 19:00:00 +0000</pubDate>
       
       <guid>https://JeronimoCarranza.github.io/talk/2018-sevici_sevillar/</guid>
-      <description>&lt;figure&gt;
-    &lt;img src=&#34;https://JeronimoCarranza.github.io/img/SevillaR_20180605.jpg&#34;/&gt; 
+      <description>
+&lt;figure&gt;
+    
+        &lt;img src=&#34;https://JeronimoCarranza.github.io/img/SevillaR_20180605.jpg&#34; /&gt;
+    
+    
 &lt;/figure&gt;
 
 </description>
@@ -130,8 +255,12 @@
       <pubDate>Thu, 17 May 2018 20:00:00 +0000</pubDate>
       
       <guid>https://JeronimoCarranza.github.io/talk/2018-sevici_databeersvq4/</guid>
-      <description>&lt;figure&gt;
-    &lt;img src=&#34;https://JeronimoCarranza.github.io/img/DatabeerSVQ4_Sevici.jpg&#34;/&gt; 
+      <description>
+&lt;figure&gt;
+    
+        &lt;img src=&#34;https://JeronimoCarranza.github.io/img/DatabeerSVQ4_Sevici.jpg&#34; /&gt;
+    
+    
 &lt;/figure&gt;
 
 </description>
@@ -151,8 +280,12 @@ Predictive models of the use of bicycles have also been built, for short-range t
 
 &lt;p&gt;&lt;a href=&#34;https://bitbucket.org/JeronimoCarranza2/TFM-Sevici&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Documentation&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 
+
 &lt;figure&gt;
-    &lt;img src=&#34;https://JeronimoCarranza.github.io/img/2018-TFM-Sevici.png&#34;/&gt; 
+    
+        &lt;img src=&#34;https://JeronimoCarranza.github.io/img/2018-TFM-Sevici.png&#34; /&gt;
+    
+    
 &lt;/figure&gt;
 
 </description>
@@ -188,8 +321,12 @@ Predictive models of the use of bicycles have also been built, for short-range t
 
 &lt;p&gt;&lt;a href=&#34;https://JeronimoCarranza.github.io/publication/2012-brocal/&#34;&gt;&lt;strong&gt;Publication&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 
+
 &lt;figure&gt;
-    &lt;img src=&#34;https://JeronimoCarranza.github.io/img/2011-Brocal.png&#34;/&gt; 
+    
+        &lt;img src=&#34;https://JeronimoCarranza.github.io/img/2011-Brocal.png&#34; /&gt;
+    
+    
 &lt;/figure&gt;
 
 </description>
@@ -215,8 +352,12 @@ Predictive models of the use of bicycles have also been built, for short-range t
 
 &lt;p&gt;&lt;a href=&#34;https://JeronimoCarranza.github.io/publication/2015-saneaclm/&#34;&gt;&lt;strong&gt;Publication&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 
+
 &lt;figure&gt;
-    &lt;img src=&#34;https://JeronimoCarranza.github.io/img/2015-SaneaCLM.png&#34;/&gt; 
+    
+        &lt;img src=&#34;https://JeronimoCarranza.github.io/img/2015-SaneaCLM.png&#34; /&gt;
+    
+    
 &lt;/figure&gt;
 
 </description>
@@ -229,89 +370,6 @@ Predictive models of the use of bicycles have also been built, for short-range t
       
       <guid>https://JeronimoCarranza.github.io/publication/2015-saneaclm/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Spatial Data Infrastructure of TYPSA Group.</title>
-      <link>https://JeronimoCarranza.github.io/publication/2014-idetypsa/</link>
-      <pubDate>Wed, 10 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://JeronimoCarranza.github.io/publication/2014-idetypsa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Development and Implementation of a Geographical Information System of the Ewaso Ng&#39;Iro South River Basin.</title>
-      <link>https://JeronimoCarranza.github.io/project/2014-engiros/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://JeronimoCarranza.github.io/project/2014-engiros/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Position&lt;/em&gt;: Technical Coordinator.&lt;br /&gt;
-&lt;em&gt;Recipients&lt;/em&gt;: Government of Kenya. Ministry of Regional Development Authorities (MoRDA). 2014.&lt;/p&gt;
-
-&lt;p&gt;The project aims at the design, development and implementation of a corporate Geographic Information System of the Regional Development Authority of Ewaso Ng&amp;rsquo;iro South (ENSDA), with destination in the Office of the Headquarters of the ENSDA in Narok. Support and installation of all necessary software and hardware is provided.
-The activities developed include:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Analysis and Design&lt;br /&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Analysis of the existing situation&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Definition of GIS requirements&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Design of the data model&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Development of the GIS&lt;br /&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Data collection&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Transformation and Load in the database&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Development of specific WebGIS application&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Implantation and Training&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Technical support&lt;br /&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;The technologies used include:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;BD: PostgreSQL 9.2 – PostGIS 2.0&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;GIS Server: Geoserver 2.2 / Geonetwork 2.4&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;WebGIS: ExtJS and OpenLayers&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Desktop GIS: ArcGIS Desktop 10 and QGIS 2.8&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;
-    &lt;img src=&#34;https://JeronimoCarranza.github.io/img/2014-Engiros.png&#34;/&gt; 
-&lt;/figure&gt;
-
-</description>
-    </item>
-    
-    <item>
-      <title>Spatial Data Infrastructure of TYPSA Group.</title>
-      <link>https://JeronimoCarranza.github.io/project/2014-idetypsa/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://JeronimoCarranza.github.io/project/2014-idetypsa/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Position&lt;/em&gt;: Head of project.&lt;br /&gt;
-&lt;em&gt;Recipients&lt;/em&gt;: TYPSA Group. 2014.&lt;/p&gt;
-
-&lt;p&gt;The Spatial Data Infrastructure of TYPSA Group (IDETypsa) is an R+D+i project developed by the Department of Territorial Information of Andalusia that aims to increase the efficiency in the access, use, exploitation and dissemination of geographic information within the Group. IDETypsa has been developed entirely with open source free software components, among others:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;BD: PostgreSQL – PostGIS&lt;/li&gt;
-&lt;li&gt;GIS Server: Geoserver&lt;/li&gt;
-&lt;li&gt;Print Server: MapFishPrint&lt;/li&gt;
-&lt;li&gt;WebGIS Client: TYPterraMap with ExtJS and OpenLayers&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://JeronimoCarranza.github.io/publication/2014-idetypsa/&#34;&gt;&lt;strong&gt;Publication&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img src=&#34;https://JeronimoCarranza.github.io/img/2014-IDETypsa.png&#34;/&gt; 
-&lt;/figure&gt;
-
-</description>
     </item>
     
   </channel>

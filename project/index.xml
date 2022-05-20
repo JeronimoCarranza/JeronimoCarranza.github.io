@@ -13,6 +13,40 @@
     
     
     <item>
+      <title>PROVISION OF INFORMATION ON SEVERAL STATISTICAL ACTIVITIES OF P.E.C.A. 2013- 2020. Lot 3. Databases of registrations of Andalusian Companies, December 2018 / January 2021.</title>
+      <link>https://JeronimoCarranza.github.io/project/2022-bormes-ieca/</link>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/project/2022-bormes-ieca/</guid>
+      <description>Position: Head of project.
+Recipients: Institute of Statistics and Cartography of Andalusia. 2022.
+The work carried out has consisted in summary of the provision in electronic format, in databases, of the registry acts related to the constitution, increase and reduction of capital, disbursement of passive dividends, transformation, split, merger, dissolution, extinction and different phases bankruptcy of Andalusian commercial companies published in the Official Gazette of the Mercantile Registry (BORME), as well as the CIF and CNAE of said entities.</description>
+    </item>
+    
+    <item>
+      <title>Computer technical assistance for the creation of a open spatial database to store and manage the data compiled in the catalog of hydraulic sanitation infrastructures of the Comunidad Valenciana.</title>
+      <link>https://JeronimoCarranza.github.io/project/2022-saneacv/</link>
+      <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/project/2022-saneacv/</guid>
+      <description>Position: Head of project.
+Recipients: TYPSA for the Department of Agriculture, Rural Development, Climate Emergencies and Ecological Transition. Government of Valencia. 2022.
+The works carried out have consisted schematically of:
+ Definition and implementation of the data model of the Catalog of Hydraulic Infrastructures for Sanitation of the Valencian Community as a Postgresql / Postgis database. Implementation of the model, in tests, as an alternative or exchange, in SQLite / Geopackage database.</description>
+    </item>
+    
+    <item>
+      <title>Analysis and diagnosis of the needs for bus shelters and proposals for improving accessibility and road safety at public transport stops in the province of Seville, excluding the sphere of competence of the Seville Metropolitan Transport Consortium. 015/2021- SERV.</title>
+      <link>https://JeronimoCarranza.github.io/project/2021-paradasbus-sevilla/</link>
+      <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/project/2021-paradasbus-sevilla/</guid>
+      <description>Position: Head of project.
+Recipients: Territorial Delegation of the Regional Ministry of Development, Infrastructure and Territory Planning in Seville. Government of Andalusia. 2021.
+The work carried out corresponds to the identification, analysis and diagnosis of regular public transport stops for general use in the province of Seville, excluding the sphere of competence of the Public Transport Consortium of the Province of Seville, determining for each stop if there is a marquee and /or information post at that point, equipment and, if so, the state of conservation and the specific maintenance needs required.</description>
+    </item>
+    
+    <item>
       <title>Computer technical assistance in the deployment, management and maintenance of servers, OGC map services and WebGIS viewer for the public exhibition of the review of floodplains of the Júcar River Basin District.</title>
       <link>https://JeronimoCarranza.github.io/project/2020-webgis-jucar/</link>
       <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
