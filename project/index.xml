@@ -6,7 +6,7 @@
     <description>Recent content in Recent Projects on Jerónimo Carranza Carranza</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Jerónimo Carranza Carranza</copyright>
+    <copyright>&amp;copy; 2022 Jerónimo Carranza Carranza</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://JeronimoCarranza.github.io/project/index.xml" rel="self" type="application/rss+xml" />
@@ -36,6 +36,30 @@ The works carried out have consisted schematically of:
     </item>
     
     <item>
+      <title>Migration of hydrological tools in GIS environment.</title>
+      <link>https://JeronimoCarranza.github.io/project/2022-chgn-migracion-hhgis/</link>
+      <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/project/2022-chgn-migracion-hhgis/</guid>
+      <description>Position: Head of project.
+Recipients: Guadiana River Basin Authority. 2022.
+The work carried out corresponds to the migration of various hydro-meteorological tools available to the Guadiana River Basin Authority, developed for ArcGIS, to the open Geographic Information System QGIS, using the Python programming language. Specifically, the following geoprocessing scripts have been developed:
+ Watershed analysis. Selection of masses (or sub-basins) upstream/downstream. Hydrological sense analysis. Selection of stretches of watercourses, upstream/downstream. Contribution basin analysis.</description>
+    </item>
+    
+    <item>
+      <title>Implementation of improvements in the prediction model of atmospheric phenomena of HELVETIA.</title>
+      <link>https://JeronimoCarranza.github.io/project/2021-helvetia-aemet/</link>
+      <pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/project/2021-helvetia-aemet/</guid>
+      <description>Position: Head of project.
+Recipients: HELVETIA COMPAÑÍA SUIZA, S.A. DE SEGUROS Y REASEGUROS. 2021.
+The work carried out corresponds to the optimization of the procedures for downloading and using weather forecast data and AEMET alerts at a municipal scale, and has consisted in summary of:
+ The analysis and implementation of a program for the realization of web scraping of the data of interest to the AEMET related to weather forecasting and alerts at the municipal level, as well as its transformation, adaptation and persistence in a database for its subsequent exploitation and internal diffusion.</description>
+    </item>
+    
+    <item>
       <title>Analysis and diagnosis of the needs for bus shelters and proposals for improving accessibility and road safety at public transport stops in the province of Seville, excluding the sphere of competence of the Seville Metropolitan Transport Consortium. 015/2021- SERV.</title>
       <link>https://JeronimoCarranza.github.io/project/2021-paradasbus-sevilla/</link>
       <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
@@ -47,13 +71,25 @@ The work carried out corresponds to the identification, analysis and diagnosis o
     </item>
     
     <item>
+      <title>Computer Technical Assistance for updating and digitizing the technical files of thirteen state-owned dams of the Júcar River Basin.</title>
+      <link>https://JeronimoCarranza.github.io/project/2020-typsa-chj-archivopresas/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/project/2020-typsa-chj-archivopresas/</guid>
+      <description>Position: Jefe de proyecto.
+Recipients: TYPSA for the Júcar River Basin Authority. 2020.
+The work carried out corresponds to the analysis, design and development of the XWPFPresas computer application that supports the management of the Technical Files of Dams of the Júcar River Basin Authority, and which in summary have consisted of:
+ Analysis, design and development of a desktop application for the management of the Technical Files of CHJ Dams with the following characteristics:  SQL Server 2016 database.</description>
+    </item>
+    
+    <item>
       <title>Computer technical assistance in the deployment, management and maintenance of servers, OGC map services and WebGIS viewer for the public exhibition of the review of floodplains of the Júcar River Basin District.</title>
       <link>https://JeronimoCarranza.github.io/project/2020-webgis-jucar/</link>
       <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://JeronimoCarranza.github.io/project/2020-webgis-jucar/</guid>
-      <description>Posición: Head of project.
-Destinatarios: TYPSA for Júcar River Basin Authority. 2020.
+      <description>Position: Head of project.
+Recipients: TYPSA for Júcar River Basin Authority. 2020.
 The work carried out has consisted in summary of:
  Domain registration revision-snczi-jucar.es. Linux VPS Server Configuration and Deployment of Base Applications. GIS Server Configuration: Geoserver. Publication of OGC Services: WFS / WCS / WMS. Adaptation, Deployment, Configuration and Personalization of Basic WebGIS Client. Monthly maintenance for thirteen months.    </description>
     </item>
@@ -64,8 +100,8 @@ The work carried out has consisted in summary of:
       <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://JeronimoCarranza.github.io/project/2019-vegabaja-segura/</guid>
-      <description>Posición: Head of project.
-Destinatarios: TYPSA. 2019.
+      <description>Position: Head of project.
+Recipients: TYPSA. 2019.
 The work carried out has consisted in summary of:
  Acquisition of COSMO-SkyMed satellite image of 09/14/2019 (StripMap HIMAGE) of the Vega Baja del Río Segura. Treatment of 11 images from the Sentinel-1, Sentinel-2, PlanetScope and SkyMed satellites between September 10 and 29 in the Vega Baja del Río Segura (696 Km2), through correction, calculation of indices, thresholding and vectorization of flooded surfaces. Report writing.</description>
     </item>
@@ -76,8 +112,8 @@ The work carried out has consisted in summary of:
       <pubDate>Sun, 31 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://JeronimoCarranza.github.io/project/2019-lagunas-donana/</guid>
-      <description>Posición: Head of project.
-Destinatarios: Guadalquivir River Basin Authority. Hydrologic Planning Office. 2019.
+      <description>Position: Head of project.
+Recipients: Guadalquivir River Basin Authority. Hydrologic Planning Office. 2019.
 The work carried out corresponds to the update, until November 2018, of the series of data to monitor the evolution of the flooded surface and vegetation in the Doñana lake-type water bodies, derived from remote sensing, and more specifically:
  Determination of the frequency of flooding and analysis of the evolution of the extension of the water surface in the study period, from the water index (MNDWI), derived from satellite images and its relationship with the rainfall data.</description>
     </item>

@@ -29,11 +29,47 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="https://JeronimoCarranza.github.io/es/project/2022-chgn-migracion-hhgis/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="https://JeronimoCarranza.github.io/project/2022-chgn-migracion-hhgis/" hreflang="en"/>
+    
+      <loc>https://JeronimoCarranza.github.io/es/project/2022-chgn-migracion-hhgis/</loc>
+      <lastmod>2022-01-20T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://JeronimoCarranza.github.io/es/project/2021-helvetia-aemet/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="https://JeronimoCarranza.github.io/project/2021-helvetia-aemet/" hreflang="en"/>
+    
+      <loc>https://JeronimoCarranza.github.io/es/project/2021-helvetia-aemet/</loc>
+      <lastmod>2021-11-12T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="https://JeronimoCarranza.github.io/es/project/2021-paradasbus-sevilla/" hreflang="es"/>
       <xhtml:link rel="alternate" href="https://JeronimoCarranza.github.io/project/2021-paradasbus-sevilla/" hreflang="en"/>
     
       <loc>https://JeronimoCarranza.github.io/es/project/2021-paradasbus-sevilla/</loc>
       <lastmod>2021-10-17T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://JeronimoCarranza.github.io/es/project/2020-typsa-chj-archivopresas/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="https://JeronimoCarranza.github.io/project/2020-typsa-chj-archivopresas/" hreflang="en"/>
+    
+      <loc>https://JeronimoCarranza.github.io/es/project/2020-typsa-chj-archivopresas/</loc>
+      <lastmod>2020-08-20T00:00:00+00:00</lastmod>
     </url>
     
   

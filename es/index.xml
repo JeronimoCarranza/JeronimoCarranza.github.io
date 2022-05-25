@@ -6,7 +6,7 @@
     <description>Recent content in Jerónimo Carranza Carranza on Jerónimo Carranza Carranza</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <copyright>&amp;copy; 2018 Jerónimo Carranza Carranza</copyright>
+    <copyright>&amp;copy; 2022 Jerónimo Carranza Carranza</copyright>
     <lastBuildDate>Tue, 22 May 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="/es/" rel="self" type="application/rss+xml" />
     
@@ -81,6 +81,62 @@
     </item>
     
     <item>
+      <title>Migración de herramientas hidrológicas en entorno SIG.</title>
+      <link>https://JeronimoCarranza.github.io/es/project/2022-chgn-migracion-hhgis/</link>
+      <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/es/project/2022-chgn-migracion-hhgis/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Posición&lt;/em&gt;: Jefe de proyecto.&lt;br /&gt;
+&lt;em&gt;Destinatarios&lt;/em&gt;: Confederación Hidrográfica del Guadiana. 2022.&lt;/p&gt;
+
+&lt;p&gt;Los trabajos realizados corresponde a la migración de diversas herramientas hidro-meteorológicas de las que dispone la Confederación Hidrográfica del Guadiana,desarrolladas para ArcGIS, al Sistema de Información Geográfica abierto QGIS, utilizando el lenguaje de programación Python. Concretamente se han desarrollado los siguientes scripts de geoprocesamiento:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Análisis de cuenca vertiente. Selección de masas (o subcuencas) aguas arriba/abajo.&lt;/li&gt;
+&lt;li&gt;Análisis sentido hidrológico. Selección de tramos de cursos de agua, aguas arriba/abajo.&lt;/li&gt;
+&lt;li&gt;Análisis de cuenca de aportación. Cálculo de cuencas de aportación en puntos seleccionados.&lt;/li&gt;
+&lt;li&gt;Extracción de datos SIMPA. Dada una capa de polígonos se realiza el cálculo de valores acumulados para los diferentes recintos a partir de las variables del modelo SIMPA del CEDEX. La aplicación permite seleccionar el rango de años hidrológicos (1940-2018) para los que se realiza el cálculo. El resultado es un conjunto de tablas (no geométricas) que se almacenan en un fichero geopackage (gpkg).&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;figure&gt;
+    
+        &lt;img src=&#34;https://JeronimoCarranza.github.io/img/2022_CHGN_Migracion_HHGIS_captura.png&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Implantación de mejoras en el modelo de predicción de fenómenos atmosféricos de HELVETIA.</title>
+      <link>https://JeronimoCarranza.github.io/es/project/2021-helvetia-aemet/</link>
+      <pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/es/project/2021-helvetia-aemet/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Posición&lt;/em&gt;: Jefe de proyecto.&lt;br /&gt;
+&lt;em&gt;Destinatarios&lt;/em&gt;: HELVETIA COMPAÑÍA SUIZA, S.A. DE SEGUROS Y REASEGUROS. 2021.&lt;/p&gt;
+
+&lt;p&gt;Los trabajos realizados por ASTERIONAT corresponden a la optimización de los procedimientos de descarga y uso de los datos de predicción meteorológica y alertas de AEMET a escala municipal, y han consistido resumidamente en:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;El análisis e implementación de un programa para la realizaicón de web scraping de los datos de interés de la AEMET relativos a predicción meteorológica y de alertas a escala municipal, así como su transformación, adaptación y persistencia en una base de datos para su posterior explotacion y difusión interna.&lt;/li&gt;
+&lt;li&gt;Las herramientas utilizadas en desarrollo de los trabajos han sido: Lenguaje de programación R, Base de datos SQLite.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;figure&gt;
+    
+        &lt;img src=&#34;https://JeronimoCarranza.github.io/img/2021-helvetia-aemet-captura.png&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Análisis y diagnóstico de las necesidades de marquesinas y propuesta de mejora de la accesibilidad y seguridad vial en las paradas de transporte público en la provincia de Sevilla, excluido ámbito competencial del Consorcio de Transportes Metropolitano de Sevilla. 015/2021- SERV.</title>
       <link>https://JeronimoCarranza.github.io/es/project/2021-paradasbus-sevilla/</link>
       <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
@@ -104,6 +160,39 @@
 &lt;figure&gt;
     
         &lt;img src=&#34;https://JeronimoCarranza.github.io/img/2021-ParadasBus-Sevilla.png&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Asistencia Técnica Informática para la actualización y digitalización de los archivos técnicos de trece presas de titularidad estatal de la Cuenca Hidrográfica del Júcar.</title>
+      <link>https://JeronimoCarranza.github.io/es/project/2020-typsa-chj-archivopresas/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/es/project/2020-typsa-chj-archivopresas/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Posición&lt;/em&gt;: Jefe de proyecto.&lt;br /&gt;
+&lt;em&gt;Destinatarios&lt;/em&gt;: TYPSA para Confederación Hidrográfica del Júcar. 2020.&lt;/p&gt;
+
+&lt;p&gt;Los trabajos realizados corresponden al análisis, diseño y desarrollo de la aplicación informática XWPFPresas que da soporte a la gestión de los Archivos Técnicos de Presas de la Confederación Hidrográfica del Júcar, y que resumidamente han consistido en:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Análisis, diseño y desarrollo de aplicación de escritorio para la gestión de los Archivos Técnicos de Presas de la CHJ con las siguientes características:
+
+&lt;ul&gt;
+&lt;li&gt;Base de datos SQL Server 2016.&lt;/li&gt;
+&lt;li&gt;Tecnología Microsoft .NET con lenguaje C# y frameworks EF y WPF.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Procesos de transformación, depuración y carga de datos masiva de los archivos técnicos de 23 presas.&lt;/li&gt;
+&lt;li&gt;Redacción de Manual de Usuario.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;figure&gt;
+    
+        &lt;img src=&#34;https://JeronimoCarranza.github.io/img/2020-TYPSA-CHJ-ArchivoPresas.png&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -298,78 +387,6 @@ También se han creado modelos predictivos del uso de bicicletas para horizontes
       
       <guid>https://JeronimoCarranza.github.io/es/talk/2017-rinqgis_sevillarusers/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>SaneaCLM: Sistema de Información de Saneamiento y Depuración de Castilla – La Mancha.</title>
-      <link>https://JeronimoCarranza.github.io/es/project/2015-saneaclm/</link>
-      <pubDate>Thu, 10 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://JeronimoCarranza.github.io/es/project/2015-saneaclm/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Posición&lt;/em&gt;: Jefe de proyecto.&lt;br /&gt;
-&lt;em&gt;Destinatarios&lt;/em&gt;: Agencia del Agua de Castilla – La Mancha. 2015.&lt;/p&gt;
-
-&lt;p&gt;En el marco del proyecto de “Control y Diagnóstico de Estaciones Depuradoras de Aguas Residuales Urbanas en Castilla-La Mancha, 2011-2015&amp;rdquo;, se ha llevado a cabo el diseño, desarrollo e implantación de una aplicación informática J2EE, denominada SaneaCLM, para la gestión de la información de las depuradoras de aguas residuales urbanas (EDAR) y la explotación gráfica, geográfica y alfanumérica de sus datos estructurales y analíticos. SaneaCLM está basada en las siguientes tecnologías:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;BD: Microsoft SQL Server 2008 R2&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Frameworks J2EE: (Backend: Hibernate, Spring, Jackson y Frontend: JSP, ExtJS and OpenLayers)&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Report Server: BIRT&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;GIS Server: OGC-WMS (ArcGIS Server, Geoserver)&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://JeronimoCarranza.github.io/es/publication/2015-saneaclm/&#34;&gt;&lt;strong&gt;Publicación&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-
-
-&lt;figure&gt;
-    
-        &lt;img src=&#34;https://JeronimoCarranza.github.io/img/2015-SaneaCLM.png&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-
-</description>
-    </item>
-    
-    <item>
-      <title>SaneaCLM: Sistema de Información de Saneamiento y Depuración de Castilla–La Mancha.</title>
-      <link>https://JeronimoCarranza.github.io/es/publication/2015-saneaclm/</link>
-      <pubDate>Thu, 10 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://JeronimoCarranza.github.io/es/publication/2015-saneaclm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sistema de Información Geográfica de la Calidad de las Aguas Subterráneas de la Demarcación Hidrográfica del Guadalquivir.</title>
-      <link>https://JeronimoCarranza.github.io/es/project/2011-brocal/</link>
-      <pubDate>Thu, 10 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://JeronimoCarranza.github.io/es/project/2011-brocal/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Posición&lt;/em&gt;: Jefe de proyecto.&lt;br /&gt;
-&lt;em&gt;Destinatarios&lt;/em&gt;: Confederación Hidrográfica del Guadalquivir. 2011.&lt;/p&gt;
-
-&lt;p&gt;En el marco del proyecto de Apoyo a la explotación de la red de control de la calidad de las aguas subterráneas de la DH del Guadalquivir se desarrolló &amp;ldquo;Brocal&amp;rdquo;, que es un Sistema de Información Geográfica en entorno web que da soporte tanto a las tareas de gestión de la información sobre la calidad de las aguas subterráneas como a su explotación alfanumérica, gráfica y geográfica. Brocal lo integran una aplicación Java (J2EE) con arquitectura de tres capas y cliente webgis, un servidor de mapas OGC y una base de datos con soporte espacial:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;BD: Oracle&lt;/li&gt;
-&lt;li&gt;GIS Server: Geoserver&lt;/li&gt;
-&lt;li&gt;Print Server: MapFishPrint&lt;/li&gt;
-&lt;li&gt;Report Server: JasperReports&lt;/li&gt;
-&lt;li&gt;App J2EE Frameworks: ExtJS, OpenLayers, JSF-RichFace, Spring, JPA-EclipseLink.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://JeronimoCarranza.github.io/es/publication/2012-brocal/&#34;&gt;&lt;strong&gt;Publicación&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-
-
-&lt;figure&gt;
-    
-        &lt;img src=&#34;https://JeronimoCarranza.github.io/img/2011-Brocal.png&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-
-</description>
     </item>
     
   </channel>

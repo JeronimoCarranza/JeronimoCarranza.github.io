@@ -6,7 +6,7 @@
     <description>Recent content in Jerónimo Carranza Carranza on Jerónimo Carranza Carranza</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Jerónimo Carranza Carranza</copyright>
+    <copyright>&amp;copy; 2022 Jerónimo Carranza Carranza</copyright>
     <lastBuildDate>Tue, 22 May 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
@@ -23,7 +23,7 @@
 
 &lt;p&gt;To carry out these works, a set of automation routines have been developed for the download, reading, transformation, enrichment and data validation processes developed using the R programming language and SQLite as a support database.&lt;/p&gt;
 
-&lt;p&gt;The processed data has fed the official Statistics on Andalusian Commercial Companies between December 2018 and March 2022.&lt;/p&gt;
+&lt;p&gt;The processed data has fed the official Statistics on Andalusian Mercantile Companies between December 2018 and March 2022.&lt;/p&gt;
 
 
 &lt;figure&gt;
@@ -81,6 +81,62 @@
     </item>
     
     <item>
+      <title>Migration of hydrological tools in GIS environment.</title>
+      <link>https://JeronimoCarranza.github.io/project/2022-chgn-migracion-hhgis/</link>
+      <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/project/2022-chgn-migracion-hhgis/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Position&lt;/em&gt;: Head of project.&lt;br /&gt;
+&lt;em&gt;Recipients&lt;/em&gt;: Guadiana River Basin Authority. 2022.&lt;/p&gt;
+
+&lt;p&gt;The work carried out corresponds to the migration of various hydro-meteorological tools available to the Guadiana River Basin Authority, developed for ArcGIS, to the open Geographic Information System QGIS, using the Python programming language. Specifically, the following geoprocessing scripts have been developed:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Watershed analysis. Selection of masses (or sub-basins) upstream/downstream.&lt;/li&gt;
+&lt;li&gt;Hydrological sense analysis. Selection of stretches of watercourses, upstream/downstream.&lt;/li&gt;
+&lt;li&gt;Contribution basin analysis. Calculation of inflow basins at selected points.&lt;/li&gt;
+&lt;li&gt;SIMPA data extraction. Given a layer of polygons, the calculation of accumulated values ​​for the different polygons is carried out based on the variables of the SIMPA model of CEDEX. The application allows you to select the range of hydrological years (1940-2018) for which the calculation is made. The result is a set of (non-geometric) tables that are stored in a geopackage (gpkg) file.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;figure&gt;
+    
+        &lt;img src=&#34;https://JeronimoCarranza.github.io/img/2022_CHGN_Migracion_HHGIS_captura.png&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Implementation of improvements in the prediction model of atmospheric phenomena of HELVETIA.</title>
+      <link>https://JeronimoCarranza.github.io/project/2021-helvetia-aemet/</link>
+      <pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/project/2021-helvetia-aemet/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Position&lt;/em&gt;: Head of project.&lt;br /&gt;
+&lt;em&gt;Recipients&lt;/em&gt;: HELVETIA COMPAÑÍA SUIZA, S.A. DE SEGUROS Y REASEGUROS. 2021.&lt;/p&gt;
+
+&lt;p&gt;The work carried out corresponds to the optimization of the procedures for downloading and using weather forecast data and AEMET alerts at a municipal scale, and has consisted in summary of:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The analysis and implementation of a program for the realization of web scraping of the data of interest to the AEMET related to weather forecasting and alerts at the municipal level, as well as its transformation, adaptation and persistence in a database for its subsequent exploitation and internal diffusion.&lt;/li&gt;
+&lt;li&gt;The tools used in the development of the works have been: R programming language, SQLite database.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;figure&gt;
+    
+        &lt;img src=&#34;https://JeronimoCarranza.github.io/img/2021-helvetia-aemet-captura.png&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Analysis and diagnosis of the needs for bus shelters and proposals for improving accessibility and road safety at public transport stops in the province of Seville, excluding the sphere of competence of the Seville Metropolitan Transport Consortium. 015/2021- SERV.</title>
       <link>https://JeronimoCarranza.github.io/project/2021-paradasbus-sevilla/</link>
       <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
@@ -112,13 +168,46 @@
     </item>
     
     <item>
+      <title>Computer Technical Assistance for updating and digitizing the technical files of thirteen state-owned dams of the Júcar River Basin.</title>
+      <link>https://JeronimoCarranza.github.io/project/2020-typsa-chj-archivopresas/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://JeronimoCarranza.github.io/project/2020-typsa-chj-archivopresas/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Position&lt;/em&gt;: Jefe de proyecto.&lt;br /&gt;
+&lt;em&gt;Recipients&lt;/em&gt;: TYPSA for the Júcar River Basin Authority. 2020.&lt;/p&gt;
+
+&lt;p&gt;The work carried out corresponds to the analysis, design and development of the XWPFPresas computer application that supports the management of the Technical Files of Dams of the Júcar River Basin Authority, and which in summary have consisted of:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Analysis, design and development of a desktop application for the management of the Technical Files of CHJ Dams with the following characteristics:
+
+&lt;ul&gt;
+&lt;li&gt;SQL Server 2016 database.&lt;/li&gt;
+&lt;li&gt;Microsoft .NET technology with C# language and EF and WPF frameworks.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Processes of transformation, debugging and massive data loading of the technical files of 23 dams.&lt;/li&gt;
+&lt;li&gt;Drafting of User Manual.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;figure&gt;
+    
+        &lt;img src=&#34;https://JeronimoCarranza.github.io/img/2020-TYPSA-CHJ-ArchivoPresas.png&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Computer technical assistance in the deployment, management and maintenance of servers, OGC map services and WebGIS viewer for the public exhibition of the review of floodplains of the Júcar River Basin District.</title>
       <link>https://JeronimoCarranza.github.io/project/2020-webgis-jucar/</link>
       <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://JeronimoCarranza.github.io/project/2020-webgis-jucar/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Posición&lt;/em&gt;: Head of project.&lt;br /&gt;
-&lt;em&gt;Destinatarios&lt;/em&gt;: TYPSA for Júcar River Basin Authority. 2020.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;em&gt;Position&lt;/em&gt;: Head of project.&lt;br /&gt;
+&lt;em&gt;Recipients&lt;/em&gt;: TYPSA for Júcar River Basin Authority. 2020.&lt;/p&gt;
 
 &lt;p&gt;The work carried out has consisted in summary of:&lt;/p&gt;
 
@@ -165,8 +254,8 @@
       <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://JeronimoCarranza.github.io/project/2019-vegabaja-segura/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Posición&lt;/em&gt;: Head of project.&lt;br /&gt;
-&lt;em&gt;Destinatarios&lt;/em&gt;: TYPSA. 2019.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;em&gt;Position&lt;/em&gt;: Head of project.&lt;br /&gt;
+&lt;em&gt;Recipients&lt;/em&gt;: TYPSA. 2019.&lt;/p&gt;
 
 &lt;p&gt;The work carried out has consisted in summary of:&lt;/p&gt;
 
@@ -193,8 +282,8 @@
       <pubDate>Sun, 31 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://JeronimoCarranza.github.io/project/2019-lagunas-donana/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Posición&lt;/em&gt;: Head of project.&lt;br /&gt;
-&lt;em&gt;Destinatarios&lt;/em&gt;: Guadalquivir River Basin Authority. Hydrologic Planning Office. 2019.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;em&gt;Position&lt;/em&gt;: Head of project.&lt;br /&gt;
+&lt;em&gt;Recipients&lt;/em&gt;: Guadalquivir River Basin Authority. Hydrologic Planning Office. 2019.&lt;/p&gt;
 
 &lt;p&gt;The work carried out corresponds to the update, until November 2018, of the series of data to monitor the evolution of the flooded surface and vegetation in the Doñana lake-type water bodies, derived from remote sensing, and more specifically:&lt;/p&gt;
 
@@ -297,78 +386,6 @@ Predictive models of the use of bicycles have also been built, for short-range t
       <pubDate>Tue, 03 Oct 2017 19:00:00 +0000</pubDate>
       
       <guid>https://JeronimoCarranza.github.io/talk/2017-rinqgis_sevillarusers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Geographic Information System of Groundwater Quality in the Guadalquivir River.</title>
-      <link>https://JeronimoCarranza.github.io/project/2011-brocal/</link>
-      <pubDate>Thu, 10 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://JeronimoCarranza.github.io/project/2011-brocal/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Position&lt;/em&gt;: Head of project.&lt;br /&gt;
-&lt;em&gt;Recipients&lt;/em&gt;: Guadalquivir River Basin Authority. 2011.&lt;/p&gt;
-
-&lt;p&gt;In the framework of the project of exploitation of the quality control network of the groundwater of the Guadalquivir Basin was developed the Brocal system. It is a Geographic Information System in a web environment that supports both information management tasks and its alphanumeric, graphic and geographic exploitation. Brocal is integrated by a Java application (J2EE) with three-layer architecture and webgis client, an OGC map server and a database with spatial support:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;BD: Oracle&lt;/li&gt;
-&lt;li&gt;GIS Server: Geoserver&lt;/li&gt;
-&lt;li&gt;Print Server: MapFishPrint&lt;/li&gt;
-&lt;li&gt;Report Server: JasperReports&lt;/li&gt;
-&lt;li&gt;App J2EE Frameworks: ExtJS, OpenLayers, JSF-RichFace, Spring, JPA-EclipseLink.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://JeronimoCarranza.github.io/publication/2012-brocal/&#34;&gt;&lt;strong&gt;Publication&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-
-
-&lt;figure&gt;
-    
-        &lt;img src=&#34;https://JeronimoCarranza.github.io/img/2011-Brocal.png&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-
-</description>
-    </item>
-    
-    <item>
-      <title>SaneaCLM: Information System of Sanitation of Urban Wastewater Treatment in Castilla–La Mancha.</title>
-      <link>https://JeronimoCarranza.github.io/project/2015-saneaclm/</link>
-      <pubDate>Thu, 10 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://JeronimoCarranza.github.io/project/2015-saneaclm/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Position&lt;/em&gt;: Head of project.&lt;br /&gt;
-&lt;em&gt;Recipients&lt;/em&gt;: Water Agency of Castilla – La Mancha. 2015.&lt;/p&gt;
-
-&lt;p&gt;In the framework of the project &amp;ldquo;Control and Diagnosis of Urban Wastewater Treatment Plants in Castilla-La Mancha, 2011-2015&amp;rdquo;, the design, development and implementation of a J2EE software application, called SaneaCLM, has been carried out for the information management of urban wastewater treatment plants (EDAR) and graphical, geographic and alphanumeric exploitation of their structural and analytical data. SaneaCLM is based on the following technologies:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;BD: Microsoft SQL Server 2008 R2&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Frameworks J2EE: (Backend: Hibernate, Spring, Jackson y Frontend: JSP, ExtJS and OpenLayers)&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Report Server: BIRT&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;GIS Server: OGC-WMS (ArcGIS Server, Geoserver)&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://JeronimoCarranza.github.io/publication/2015-saneaclm/&#34;&gt;&lt;strong&gt;Publication&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-
-
-&lt;figure&gt;
-    
-        &lt;img src=&#34;https://JeronimoCarranza.github.io/img/2015-SaneaCLM.png&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-
-</description>
-    </item>
-    
-    <item>
-      <title>SaneaCLM: Information System of Sanitation of Urban Wastewater Treatment in Castilla–La Mancha.</title>
-      <link>https://JeronimoCarranza.github.io/publication/2015-saneaclm/</link>
-      <pubDate>Thu, 10 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://JeronimoCarranza.github.io/publication/2015-saneaclm/</guid>
       <description></description>
     </item>
     
